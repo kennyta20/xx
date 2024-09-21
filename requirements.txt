@@ -16,3 +16,4 @@ pyarrow==16.1.0
 pydeck==0.9.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
+streamlit
